@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cd /tmp/django-dockercompose
+cd /tmp/jenkins-with-selenium-slave-on-docker
 sudo docker-compose kill
