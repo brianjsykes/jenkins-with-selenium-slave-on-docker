@@ -3,7 +3,7 @@ os: linux
 
 files:
   - source: .
-    destination: /tmp/jenkins-dockercompose
+    destination: /tmp/jenkins-with-selenium-slave-on-docker
 
 hooks:
   BeforeInstall:
